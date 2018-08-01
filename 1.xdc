@@ -10568,6 +10568,8 @@ M> たくさんある /e/ の一部を /ca/ のそれぞれに渡したり送っ
 
 U> {ca} 句には当然複数のものやグループなどが入る。したがって、「全員に分ける」は {ca zas aves} の方が適切で {ca zas atov} は不自然である。
 
+S> {vade salat a saq e taqvalentan, cavotes a tel ca refet aves e letyem.} → 今日はバレンタインデーなので、友達みんなにチョコレートを配った。
+
 * caqol
 + 1291 〈動〉
 
