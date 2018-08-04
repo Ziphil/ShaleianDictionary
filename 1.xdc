@@ -9923,6 +9923,8 @@ M> いたずらする内容。
 
 E> < {belset}.n。
 
+S> {vomac panos ovák e tel a belsit i qelad.} → 弟のいたずらにはいつも困らされている。
+
 * belsok
 + 1649 〈名〉
 
