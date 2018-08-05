@@ -6264,6 +6264,8 @@ M> 何が起こっても必ず実現させると約束した内容。
 
 U> < {kolveq}.n。
 
+S> {pa salet e nodom a kolviq aquk ike'n xâyis okôk a loc e tel?} → 絶対に幸せにするというあの約束は嘘だったの?
+
 -〈類〉 {kozis}
 
 * kolcav
