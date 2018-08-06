@@ -4351,6 +4351,8 @@ M> ?
 
 U> {e} 句は「地面」などの掘る対象を入れる。「穴」などの掘った結果でき上がるものは、結果目的語なので {qe} 句を用いる。
 
+S> {pa salat e apadit a kin debêkis a tel e sodel i nasfek ce kofidis a'l e kisol avosfom?} → 庭の地面を掘ったら大量のお金が見つかったりしないかな?
+
 -〈類〉 {debfot}
 -〈対〉 {vonkud}
 
