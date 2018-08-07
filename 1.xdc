@@ -7341,6 +7341,8 @@ M> 恋をしていることを伝える手紙。
 
 E> < {fecaq} ＋ {rêy}。
 
+S> {harat e tel, ovel emic ini kin nicases a loc ca'l e fecaqrêy, a kin cazes a'c ca'l e revez i loc qi qelar.} → ラブレターを渡されるよりは、口で気持ちを伝えてくれた方が嬉しかった。
+
 * fecev
 + 2137 〈動主〉
 
