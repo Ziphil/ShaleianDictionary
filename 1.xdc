@@ -6330,6 +6330,8 @@ M> 船舶が停泊して、その乗客が乗り降りしたり荷物を積み�
 
 E> < {kolot} ＋ [tèc] (< {tècaq})。
 
+S> {vo kolettèc afik, qifot fegas a loc e tàt avôl ilevo lêk 100 ica ritif.} → この港では、100 種類以上の魚を買うことができます。
+
 * kolotvol
 + 2151 〈名〉
 
