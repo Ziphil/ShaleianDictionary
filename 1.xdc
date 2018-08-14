@@ -857,14 +857,16 @@ U> 普通は腕に巻きつけるタイプの腕時計を指す。
 * sokos
 + 1576 〈動対〉
 
-=〈形〉 価値のある
+=〈形〉 価値のある, 意味のある
 
 M> ?
+
+S> {di'nibitis ofev a'c e zel adusokos itace cal, lo di'zevofis a'c.} → そんな意味のないことはすぐにやめて勉強しなさい。
 
 * sokus
 + 1070 〈名〉
 
-=〈名〉 価値
+=〈名〉 価値, 意味
 
 M> ?
 
