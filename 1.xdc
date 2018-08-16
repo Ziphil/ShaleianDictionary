@@ -6545,6 +6545,7 @@ U> 特定の修飾の代詞。
 M> ?
 
 U> 「努力してようやく手に入れた」というニュアンスを加えたのが {felzes}。
+U> 結果的に {e} 句のものを所有することができたことを表すが、このときの「所有」の意味合いとしては、{kav} 的な所有も {kût} 的な所有も表す。
 
 -〈類〉 {felzes}
 
@@ -7371,6 +7372,8 @@ S> {vomac catos olof a tel vo fecil ica sod.} → 私はよく家の近くを歩
 =〈形〉 (/ica/ に) 便利な, 有用な, 役に立つ, 重宝する
 
 M> ?
+
+S> {zedot kufis a ces e lifik asas ica zis etut afeqit itazi ces.} → 彼は自分にとって便利な人としか仲良くなろうとしない。
 
 -〈類〉 {lifês}
 -〈対〉 {doqfeqit}
