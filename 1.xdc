@@ -7103,6 +7103,8 @@ U> 欲しい度合いを強めたのが {zefkul} で、どんな手段を使っ�
 
 M> /e/ の答えは何なのかを見つけるため、いろいろなアイデアを比べながら頭を働かせる。
 
+S> {fesoses a tel e kin vomac câsos a qazrêy te taq atov e pas ekoz.} → 私は彼が毎日いったい誰と会っているのか思いを巡らせた。
+
 -〈類〉 {sox}
 
 * fesot
