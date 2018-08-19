@@ -13377,6 +13377,8 @@ M> 年上の女性の知り合い。
 
 E> < {lef} ＋ {hinof}。
 
+S> {pafikak a tel e'n raflesec orahas a ces te lôk azêk etim ca lefhinof, iva ʻnâtih.} → 彼が少し前にナーティアお姉さんと楽しそうに喋っていたのを思い出した。
+
 -〈対〉 {lefnîl}
 
 * lefom
