@@ -7246,6 +7246,8 @@ S> {firnifes a loc ivoku yer i tel, fa dufedaket a'l e cal.} → 私が気づか
 
 M> {e} と互いに知っている状態になる。
 
+S> {fedàtes a tel e ces, te taq ac'12 ben ac'8, vo vosras ivo caf izi kolot.} → 私が彼女と知り合ったのは、8 月 12 日、駅前のカフェだった。
+
 * feket
 + 1072 〈動〉
 
