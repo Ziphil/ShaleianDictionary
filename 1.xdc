@@ -14298,6 +14298,8 @@ U> セロハンテープやガムテープなどの、貼り付けるための�
 
 M> 自分のものである /e/ を一時的に /ca/ のものとして使わせる。
 
+S> {lôqes a ces ca ʻnêtih asen e loqis iku tel, fa ducazes a's e cal ca tel.} → 彼は私には何も伝えずに、ネーティアさんに私の車を貸していた。
+
 -〈類〉 {caqol}
 -〈対〉 {fév}
 
