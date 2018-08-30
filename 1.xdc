@@ -1151,6 +1151,8 @@ E> < [sol] (< {solak}) ＋ {xodlas}。
 
 U> 衣服の形状は問わない。
 
+S> {vilisac zisa kedxovas a fakel kômat a e solxodlas axac.} → 教会の方から白いドレスを着た女性が走ってきている。
+
 * solhal
 + 1574 〈名〉
 
