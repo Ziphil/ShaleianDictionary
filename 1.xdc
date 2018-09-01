@@ -14849,6 +14849,8 @@ S> {pa niseliz li red i tel a kin rêyas a'l e zis ovop?} → また誰かに恋
 
 M> 期待などで心臓の鼓動が速まっている状態に /e/ をする。
 
+S> {rétikat ovip e tel a kin qifit câsas a'l te tacar e zis nisaqat e a'l.} → 明日憧れの人に会えるのですでにドキドキしている。
+
 -〈類〉 {dalet}*
 
 * réd
