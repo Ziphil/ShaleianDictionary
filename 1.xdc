@@ -10903,7 +10903,7 @@ M> その時点で行っていなければならないこと。
 
 U> 将来何かしようという計画ではなく、その時点でしていなければならないことを表す。「計画」や「予定」ではない。
 
-S> {pa kavit a loc e calos te tacar?} … 明日暇?
+S> {pa kavit a loc e calos te tacar?} → 明日暇?
 
 * calok
 + 1330 〈名〉
