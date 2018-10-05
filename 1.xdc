@@ -14757,6 +14757,13 @@ U> {locaf/o/c a} [/S/] と言うと、何らかの順番がつけられた列に
 
 S> {nibitag li soxot e qetan a pafem locafac a olôx.} → 永遠に続く悩みごとのせいで頭が動かなくなった。
 
+* loces
++ 2448 〈名〉
+
+=〈名〉 棒, スティック
+
+M> 手で握って持てる大きさの細長いもの。
+
 * loqis
 + 1305 〈名〉
 
