@@ -6048,6 +6048,8 @@ M> それぞれを 1 つの住宅として使うために内部をいくつか�
 
 E> < {kedet} ＋ [cav] (< {cavot})。
 
+U> 「アパートに住んでいる」と言いたい場合は {keqil/o/c e sodcav} とし、{kedetcav} は使わない。
+
 -〈類〉 {sodcav}
 
 * kefôr
