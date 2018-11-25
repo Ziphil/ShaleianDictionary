@@ -11649,6 +11649,16 @@ S> {dusalot a tel e zis asokes itazi ʻxalih iti duqifot zelqotos a's e zis acik
 
 M> ?
 
+* cedlem
++ 2499 〈名〉
+
+=〈名〉 カボチャ, 唐茄子, 南京
+=: 南瓜
+
+M> ?
+
+U> 皮の色で区別はしない。したがって、英語では pumpkin ではなく squash に近い。
+
 * cedeq
 + 2330 〈動〉
 
