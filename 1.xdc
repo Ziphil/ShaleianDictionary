@@ -1314,6 +1314,8 @@ M> 主に胴の部分に着る服。
 
 E> < {solak} ＋ {tòlat}。
 
+H~ 2502: {solxodlas} などと違い {solak} を [sol] にして合成しなかったのは、{solxodlas} が 1 つの服の種類を指すのに対し、{solaktòlat} はそのような様々な服の種類の分類であり、より「服」という意味合いを残しておきたかったためである。
+
 -〈対〉 {solakletoq}
 
 * solakletoq
