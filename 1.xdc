@@ -431,6 +431,17 @@ E> < [sec] (< {secel}) ＋ {zédic}。
 U> 意味は語義にあるように狭く、トレーニングウェアやスポーツユニフォームなどを指すことはない。
 U> シャツとズボンの両方を指す。
 
+* sechal
++ 1574 〈名〉
+
+=〈名〉 セーラー服
+
+M> ?
+
+E> < [sec] (< {secel}) ＋ [hal] (< {halfet})。
+
+U> 海軍の軍服としてではなく、日本の女子学生用の学生服としてのセーラー服を指す。
+
 * secel
 + 1483 〈名〉
 
@@ -1284,17 +1295,6 @@ E> < [sol] (< {solak}) ＋ {xodlas}。
 U> 衣服の形状は問わない。
 
 S> {vilisac zisa kedxovas a fakel kômat a e solxodlas axac.} → 教会の方から白いドレスを着た女性が走ってきている。
-
-* solhal
-+ 1574 〈名〉
-
-=〈名〉 セーラー服
-
-M> ?
-
-E> < [sol] (< {solak}) ＋ [hal] (< {halfet})。
-
-U> 海軍の軍服としてではなく、日本の女子学生用の学生服としてのセーラー服を指す。
 
 * solak
 + 1245 〈名〉
@@ -18847,6 +18847,7 @@ O> 「撮影する」は「写真を作る」や「動画を作る」のよう�
 - 2502: {solzîdsax} → {secel}
 - 2502: {solsohiz} → {secsohiz}
 - 2502: {solzédic} → {seczédic}
+- 2502: {solhal} → {sechal}
 
 * META-SNOJ
 
