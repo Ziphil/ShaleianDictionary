@@ -9993,6 +9993,8 @@ M> 必要な程度より甚だしい。
 
 U> 副詞用法で使う場合は B 型副詞になるので、名詞は修飾できない。例えば、「十分なお金」は {kisol evod} とは言えず、{kisol avôl evod} とする必要がある。
 
+S> {ditat déxis a'c teku lôk avôl evod, so dunozejis a'c loke solit ite tacál.} → 明日の試験で失敗しないように、十分寝なさい。
+
 -〈対〉 {tipil}
 
 * vodân
