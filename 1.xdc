@@ -4159,6 +4159,8 @@ E> < {tílir} ＋ {sít} ＋ {piv}。
 
 N> 幸せや幸運の象徴。
 
+S> {kofides a tel vo naflat e tílirsítpiv. pa kodis e zel anissarac?} → 公園で四つ葉のクローバーを見つけたんだ。何か良いことあるかな?
+
 * tìf
 + 1974 〈名〉
 
