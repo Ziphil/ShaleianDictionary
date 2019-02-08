@@ -6331,6 +6331,8 @@ U> {kezel} は人を修飾して何らかの行為をするのが上手である
 
 M> どこかへ移動したりせずに /ca/ に存在したままになる。
 
+S> {vade xakalet te nîpes a tel zi kossax, kezisez a'l li litéz ca cêd.} → 学校を出たときは晴れていたので、傘を学校に忘れてきてしまった。
+
 * ketqet
 + 2443 〈名〉
 
