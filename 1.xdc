@@ -7440,7 +7440,7 @@ H~ 2186: もともとは、唇を含めず口として開く部分の内部を�
 
 M> ?
 
-S> {kutizot e kin nisot a zis ca kez, ca kin pavafos odukôk e ces a zis te holpasos a ces.} → 大人になったということは、突然いなくなっても誰かが必ず探しに来てくれるわけではないということだ。
+S> {kutizot e kin nisot a vas ca kez, ca kin pavafos odukôk e ces a zis te holpasos a ces.} → 大人になったということは、突然いなくなっても誰かが必ず探しに来てくれるわけではないということだ。
 
 * kutid
 + 1177 〈動〉
