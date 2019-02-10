@@ -14856,6 +14856,8 @@ U> 牛の乳のみを指す。人間の母乳は指さない。
 
 M> ?
 
+S> {di'dukezisoz a'c li cikik ca fêd. di'dupelnetos a'c te lôk avôl ile meris ayoset. di'dumafetos a'c e levkit.} → ここに持ち物を置いていくな。30 分以上うろつくな。ガラスに触るな。
+
 * levlis
 + 1872 〈名〉
 
