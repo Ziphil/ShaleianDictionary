@@ -13905,6 +13905,8 @@ E> < {xar}.n。
 
 U> 実際に相手が幸せになっているかどうかは問わない。
 
+S> {loke xer, revet a tel e'n rekotat loke a'l ovel ifeli qel, pa kilat a'l vade pil te sot e'n etut pafikos a'l?} → あれだけ理解していると思っていた愛を、今は思い出すことしかできないのはどうしてだろう?
+
 * xerat
 + 1203 〈名〉
 
