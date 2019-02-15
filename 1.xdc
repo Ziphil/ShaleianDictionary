@@ -11075,6 +11075,8 @@ M> 立っていたり動いていたりしていたが、それが続けられ�
 
 U> 人だけではなく、例えば電車が脱線して横倒れになることも {becam} と言える。
 
+S> {vomoc becamos olof a ces vo zîd edif qetat vo a dat.} → 彼女は何もないところでさえもよく転ぶ。
+
 * beqzel
 + 1049 〈動〉
 
