@@ -3186,20 +3186,6 @@ E> < [tal] (< {talik}) ＋ {zic}。
 
 -〈対〉 {talcaf}
 
-* talzîthárih
-+ 1351 〈名〉
-
-=〈名固〉 旧ハイリア暦
-
-E> < [tal] (< {talqis}) ＋ {zît} ＋ [hárih]。
-
-* taltedhárih
-+ 1351 〈名〉
-
-=〈名固〉 新ハイリア暦
-
-E> < [tal] (< {talqis}) ＋ {ted} ＋ [hárih]。
-
 * taltik
 + 2361 〈動〉
 
@@ -3296,6 +3282,20 @@ M> ?
 E> < [tal] (< {talqis}) ＋ [hárih]。
 
 U> 普通は 4 代以降で使われている新ハイリア暦を指す。新旧の区別をしたいときは、それぞれ {taltedhárih} と {talzîthárih} とする。
+
+* talhárihzît
++ 1351 〈名〉
+
+=〈名固〉 旧ハイリア暦
+
+E> < [tal] (< {talqis}) ＋ [hárih] ＋ {zît}。
+
+* talhárihted
++ 1351 〈名〉
+
+=〈名固〉 新ハイリア暦
+
+E> < [tal] (< {talqis}) ＋ [hárih] ＋ {ted}。
 
 * talhif
 + 2147 〈名〉
