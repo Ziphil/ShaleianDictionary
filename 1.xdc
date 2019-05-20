@@ -8993,6 +8993,8 @@ S> {xâyot e vas, a kin etís fèkoc e ces a zis é kin etís kázoc e ces a zis
 
 M> ?
 
+U> 場所に見立てられる。
+
 O> 「状況」の意味の {sôv} との違いは? なお、この単語は『{e xádis i zál}』で使うために作られた。
 
 * fi
