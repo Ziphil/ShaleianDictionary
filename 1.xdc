@@ -12827,6 +12827,8 @@ M> ?
 
 M> 特に根拠がないにも関わらず疑わずに /e/ が本当だと思う。
 
+S> {cilkozet a tel e'n cikekat a'l e cifèkdev, dà pâziqet a'l e cit zi sod.} → 筆箱を持ってきたと思っていたが、家に忘れてきていた。
+
 -〈類〉 {kosat}*, {doqof}
 
 * cilít
