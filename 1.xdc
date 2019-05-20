@@ -16738,7 +16738,7 @@ M> ?
 
 P> {rev/os/ a red e kin} [～] … 本心から～と思う。特に感情が関わる内容について言う。
 
-S> {loqoses okòv a tel zi fakrêy te tazik. dà, revat a tel e'n salat a cal e asas.} &#x002F; {pa revat oyát e cal a red i loc?} → 実は昨日彼女と別れたんだ。でもそれで良かったと思ってる。&#x002F; それ本当に本心で言ってる?
+S> {detares okòv a tel zi fakrêy te tazik. dà, revat a tel e'n salat a cal e asas.} &#x002F; {pa revat oyát e cal a red i loc?} → 実は昨日彼女と別れたんだ。でもそれで良かったと思ってる。&#x002F; それ本当に本心で言ってる?
 
 -〈対〉 {koled}*
 
