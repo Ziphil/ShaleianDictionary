@@ -12216,6 +12216,17 @@ S> {dusoket a tel e'n salat vade pil e asalaf a cal, lo bozetes a ces e lef.} �
 =〈名固〉 [c]
 
 * caldôz
++ 2676 〈名〉
+
+=〈名〉 重発音
+
+M> [c] と [q] をそれぞれ &#x002F;t͡s&#x002F; と &#x002F;d͡z&#x002F; とするシャレイア語の発音。
+
+E> < {cal} ＋ {dôz}。
+
+-〈類〉 {calháp}
+
+* caldûz
 + 2676 〈動〉
 
 =〈形〉 重発音話者の
@@ -12223,13 +12234,24 @@ S> {dusoket a tel e'n salat vade pil e asalaf a cal, lo bozetes a ces e lef.} �
 
 M> 日常的に [c] と [q] をそれぞれ &#x002F;t͡s&#x002F; と &#x002F;d͡z&#x002F; で発音する。
 
-E> < {cal} ＋ {dôz}。
+E> < {caldôz}.v。
 
 U> 反復表現にはしない。
 
--〈類〉 {calháp}
+-〈類〉 {calhép}
 
 * calháp
++ 2676 〈名〉
+
+=〈名〉 標準発音, 軽発音
+
+M> [c] と [q] をそれぞれ &#x002F;θ&#x002F; と &#x002F;ð&#x002F; とするシャレイア語の発音。
+
+E> < {cal} ＋ {háp}。
+
+-〈類〉 {caldôz}
+
+* calhíp
 + 2676 〈動〉
 
 =〈形〉 標準発音話者の, 軽発音話者の
@@ -12237,11 +12259,11 @@ U> 反復表現にはしない。
 
 M> 日常的に [c] と [q] をそれぞれ &#x002F;θ&#x002F; と &#x002F;ð&#x002F; で発音する。
 
-E> < {cal} ＋ {háp}。
+E> < {calháp}.v。
 
 U> 語義が「日常的に話す」となっているため、この動詞単独で反復の意味があり、したがって {vom} を使って反復表現にすることはない。
 
--〈類〉 {caldôz}
+-〈類〉 {caldûz}
 
 * calet
 + 1417 〈動〉
