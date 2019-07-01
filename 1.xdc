@@ -8533,7 +8533,7 @@ M> 時刻の点で比較的前の。
 
 E> < {fém}.v。
 
-S> {zêfet a ces ca kossax te lôk afám emic ini tel.} → 彼は私より早く学校に着いていた。
+S> {zêfet a ces ca kossax te lôk afám emic ini tel.} → 彼は私より先に学校に着いていた。
 
 -〈類〉 {zêk}
 -〈対〉 {qotil}
