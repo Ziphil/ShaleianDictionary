@@ -16503,6 +16503,7 @@ S> {di'dukezisoz a'c li cikik ca fêd. di'dulesos e'n pelnetas a'c te lôk avôl
 + 1872 〈名〉
 
 =〈名〉 眼鏡
+=: メガネ
 
 M> ?
 
