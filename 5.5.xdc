@@ -3922,6 +3922,13 @@ O> {tebem} と {holap} の違いをきちんと考える。
 
 -〈類〉 {holap}
 
+* tecnas
++ 2879 〈名〉
+
+=〈名〉 小麦
+
+M> ?
+
 * teca
 + 1293 〈助〉
 
@@ -4604,6 +4611,17 @@ S> {kofides a tel vo naflat e tílirsítpiv. pa kodis e zel anissarac?} → 公�
 =〈名〉 粉, 粉末
 
 M> ?
+
+* tìftecnas
++ 2879 〈名〉
+
+=〈名〉 小麦粉, うどん粉, メリケン粉
+
+M> 小麦を粉末状にしたもの。
+
+E> < {tìf} ＋ {tecnas}。
+
+U> 種類は問わない。
 
 * tìfdìl
 + 2283 〈名〉
