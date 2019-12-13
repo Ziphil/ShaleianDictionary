@@ -5321,6 +5321,8 @@ U> 接続詞の用法はない。英語の without とは違い、動詞型不�
 
 E> < {desket}。
 
+U> 個別の学問名を作るときに使われる。学問の種類などを作るときは {desket} との合成にする。
+
 * destek
 + 1658 〈名〉
 
@@ -14612,6 +14614,8 @@ S> {pa medelat e qixov aquk? xílac olov a cadìq i cit se abig….} → あの�
 =〈飾〉 ～語, ～の言語
 
 E> < {qilox}。
+
+U> 個別の言語名を作るときに使われる。言語の種類などを作るときは {qilox} との合成にする。
 
 * qilferanes
 + 1873 〈名〉
