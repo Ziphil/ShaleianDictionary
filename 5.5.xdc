@@ -2072,7 +2072,7 @@ S> {fèkes a tel e'n nisat a lef i ces ca yetih. zekèzat a tel e ces.} → 彼�
 * zekod
 + 2878 〈動〉
 
-=〈動:自〉 (/e/ で /ca/ と) 競う, 争う, 競争する, 勝負する
+=〈動:自〉 (/e/ で /ca/ と) 競う, 争う, 戦う, 競争する, 勝負する
 
 M> /ca/ とともに /e/ を行って、/e/ の結果に関して互いに劣るまいとする。
 
