@@ -17006,6 +17006,15 @@ M> ?
 
 E> < {litciv} ＋ {zaf}。
 
+* litcivdâd
++ 2888 〈名〉
+
+=〈名〉 白菜
+
+M> ?
+
+E> < {litciv} ＋ {dâd}。
+
 * lithif
 + 2124 〈動対〉
 
