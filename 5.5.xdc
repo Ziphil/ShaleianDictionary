@@ -2578,6 +2578,7 @@ S> {ditat zikadis a'c e tolék atuf sora lef zêfis a te parec.} → 後から�
 + 1274 〈名〉
 
 =〈名〉 残り, 残り物, 余り
+=: あと
 
 M> ?
 
