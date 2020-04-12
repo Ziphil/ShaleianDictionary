@@ -14914,6 +14914,13 @@ N> 5 代シャレイア語以降においては、[xaléh] はもはや何の意
 
 E> < {qil+} ＋ [japan] (< japan.tl)。
 
+* qiljemanis
++ 3003 〈名〉
+
+=〈名固〉 ドイツ語
+
+E> < {qil+} ＋ [jemanis] (< germany.tl)。
+
 * qilangel
 + 1873 〈名〉
 
