@@ -7848,7 +7848,7 @@ E> < {kéc}.n。
 
 M> ?
 
-E> < [kíl] (< {kílec}) ＋ [led] (< {ledèt})。
+E> < [kíl] (< {kílec}) ＋ [led] (< {ledét})。
 
 * kílec
 + 2499 〈名〉
