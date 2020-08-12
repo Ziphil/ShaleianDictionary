@@ -3,7 +3,7 @@
 </div>
 
 ![](https://img.shields.io/github/commit-activity/y/Ziphil/ShaleianDictionary?label=commits)
-![](https://img.shields.io/endpoint?label=words&url=https%3A%2F%2Fziphil.com%2Fconlang%2Fdatabase%2F1.cgi%3Fmode%3Dfetch%26type%3D4%26agree%3D0)
+![](https://img.shields.io/endpoint?label=words&url=https%3A%2F%2Fziphil.com%2Fprogram%2Finterface%2F3.cgi%3Fmode%3Dfetch_badge)
 
 
 ## 概要
