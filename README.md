@@ -18,5 +18,5 @@
 
 データの検索やダウンロードは、以下のリンクから行うのが便利です。
 
-- [オンライン辞典](http://ziphil.com/conlang/database/1.cgi)
+- [オンライン辞典](http://ziphil.com/conlang/database/1.html)
 - [辞典データダウンロード](http://ziphil.com/conlang/database/4.html)
