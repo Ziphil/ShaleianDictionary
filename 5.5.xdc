@@ -18365,6 +18365,13 @@ S> {zedat déxaf a tel, cife lonaqat a'l e'n kodes a zel aves ite zilok vo pér.
 
 -〈類〉 {raf}*, {solxes}, {fertis}, {salzeg}
 
+* lonal
++ 3147 〈名〉
+
+=〈名〉 尻尾, 尾, テール
+
+M> ?
+
 * lonot
 + 2125 〈動〉
 
