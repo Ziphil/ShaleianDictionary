@@ -16542,6 +16542,10 @@ M> 非常に大切なものである /e/ を /ca/ に与える。
 
 M> 食事したり仕事をしたり睡眠をとったりなどの人間の営みを行う。
 
+S> {xolacac a ces te sot vo ʻamerikas.} → 彼は今アメリカで暮らしている。
+
+-〈類〉 {lìt}
+
 * xolàl
 + 2443 〈名〉
 
@@ -18344,6 +18348,17 @@ S> {vade salot a ces e afemis o alísay evêk, zedot cazis a dus ca ces e tikop.
 M> ?
 
 U> グランドピアノとアップライトピアノの両方を指す。
+
+* lìt
++ 3218 〈動〉
+
+=〈動〉 (/e/ を /zi'n/ で) 過ごす
+
+M> /zi/ をすることで /e/ という時間を費やす。
+
+S> {te saq, lìtes a tel e vis i xav zi'n lîdes a'l e lacat.} → 今日は、昼間ずっと小説を読んで過ごした。
+
+-〈類〉 {xolac}
 
 * lìk
 + 1888 〈動〉
