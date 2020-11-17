@@ -8594,6 +8594,8 @@ M> 視覚によって得られた根拠をもとに /e/ が正しいと思う。
 
 E> < [kor] (< {korel}) ＋ [qer] (< {qerit})。
 
+S> {korqeres a tel e'n salat e aduyát a zel kécac e a ces.} → 彼の言っていたことが本当であるようには聞こえなかった。
+
 -〈類〉 {korel}*, {korlic}
 
 * korlic
