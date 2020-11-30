@@ -4563,7 +4563,7 @@ U> {cavef} と対応する。
 
 M> 花びらが閉じていて花になる前の状態のもの。
 
-E> < [tif] (< {tif}) ＋ [nay] (< {nayef})。
+E> < [tif] (< {tific}) ＋ [nay] (< {nayef})。
 
 * tifef
 + 2136 〈副〉
