@@ -15571,6 +15571,15 @@ E> < {qil+} ＋ [japan] (< japan.tl)。
 
 E> < {qil+} ＋ [jêmanis] (< germany.tl)。
 
+* qilarkas
++ 3249 〈名〉
+
+=〈名固〉 アルカ
+
+E> < {qil+} ＋ [arkas] (< arka.tl)
+
+N> seren arbazard による人工言語。
+
 * qilangel
 + 1873 〈名〉
 
