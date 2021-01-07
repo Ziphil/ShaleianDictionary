@@ -13409,7 +13409,7 @@ M> いたずらする内容。
 
 E> < {belset}.n。
 
-S> {vomac panos ovák e tel a belsit i qelad.} → 弟のいたずらにはいつも困らされている。
+S> {vomac panos ovák e tel a belsit i qaled.} → 弟のいたずらにはいつも困らされている。
 
 * belsok
 + 1649 〈名〉
@@ -15240,7 +15240,7 @@ M> 同じ両親から生まれた男の子供のうち、年下の方。
 
 M> 弟以外の親戚で、自分と年齢が近い年下の男性。
 
-E> < {qelad} ＋ {cîf}。
+E> < {qaled} ＋ {cîf}。
 
 -〈関〉 {nîlcîf}, {yafcîf}, {hinofcîf}
 
