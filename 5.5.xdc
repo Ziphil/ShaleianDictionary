@@ -23563,6 +23563,8 @@ O> 「撮影する」は「写真を作る」や「動画を作る」のよう�
 - 3215: {laxqovyekal} → {qisecyekal}
 - 3271: {pacek} → {picek}
 - 3271: {pacvop} → {picvop}
+- ?: {vafsof} → {milcat}
+- ?: {vafsuf} → {milcit}
 
 * META-SNOJ
 
