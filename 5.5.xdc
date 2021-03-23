@@ -16907,10 +16907,10 @@ M> ?
 
 M> ?
 
-E> < {xalneh}.n。
+E> < {xelneh}.n。
 
 U> 誰かにかけられた具体的な魔法のそれぞれを指す。魔法の体系としての「魔術」は指さない。
-U> 「/S/ に魔法をかける」は {xalneh/os/ e} [/S/] か {nakus/os/ zi xalnih e} [/S/] で表現する。
+U> 「/S/ に魔法をかける」は {xelneh/os/ e} [/S/] か {nakus/os/ zi xelnih e} [/S/] で表現する。
 
 * xer
 + 1064 〈名〉
