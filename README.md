@@ -6,6 +6,11 @@
 ![](https://img.shields.io/endpoint?label=words&url=https%3A%2F%2Fziphil.com%2Fprogram%2Finterface%2F3.cgi%3Fmode%3Dfetch_badge)
 
 
+## 注意
+シャレイア語辞典は新形式に移行しました。
+このリポジトリはこれ以上更新されません。
+新しい形式のシャレイア語辞典は[こちら](https://github.com/Ziphil/ShaleianDictionaryNew)で公開しています。
+
 ## 概要
 シャレイア語の辞書データです。
 現在は 5 代 5 期のデータのみ更新されています。
